@@ -5,14 +5,6 @@ const delay = (i) => {
   return 0 + i * 0.2;
 };
 const duration = 1;
-const animation = {
-  opacity: [0, 1, 0],
-};
-const transition = {
-  duration: duration,
-  ease: "linear",
-  repeat: Infinity,
-};
 
 const Letters = () => {
   return (

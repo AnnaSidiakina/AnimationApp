@@ -45,7 +45,6 @@ export const LoaderContainer = styled.div`
   height: 300px;
   width: 300px;
   margin: 0 auto;
-  z-index: -1;
 
   &::before {
     content: " ";
